@@ -14,13 +14,13 @@
     </head>
     <body>
         <h1>Age Calculator</h1>
-        <form method="post" action="age">
+        <form method="post">
             Enter your age:<input name="ageinput" id="age" type="text">
             <br>
             <input type="submit" value="Age next birthday">
             ${message}
             <br>
-            <a href="www.google.com">Arithmetic Calculator</a>
+            <a href="/Lab3_Calculators/arithmetic">Arithmetic Calculator</a>
         </div>
     </body>
 </html>
